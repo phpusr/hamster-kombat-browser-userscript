@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Hamster Kombat Web
+// @name         Hamster Kombat Web (phpusr)
 // @namespace    http://tampermonkey.net/
 // @version      1.2
 // @description  Запуск Hamster Kombat в браузере
@@ -7,9 +7,9 @@
 // @match        *://*.hamsterkombat.io/*
 // @grant        none
 // @icon         https://hamsterkombat.io/images/icons/hamster-coin.png
-// @downloadURL  https://github.com/mudachyo/Hamster-Kombat/raw/main/hamster-kombat.user.js
-// @updateURL    https://github.com/mudachyo/Hamster-Kombat/raw/main/hamster-kombat.user.js
-// @homepage     https://github.com/mudachyo/Hamster-Kombat
+// @downloadURL  https://github.com/phpusr/hamster-kombat-browser-userscript/raw/main/hamster-kombat.user.js
+// @updateURL    https://github.com/phpusr/hamster-kombat-browser-userscript/raw/main/hamster-kombat.user.js
+// @homepage     https://github.com/phpusr/hamster-kombat-browser-userscript
 // ==/UserScript==
 
 (function() {
@@ -39,7 +39,7 @@
             'https://app.hamsterkombat.io/js/telegram-web-app.js',
             'https://hamsterkombat.io/js/telegram-web-app.js?v=7.6'
         ];
-        const newUrl = 'https://ktnff.tech/hamsterkombat/telegram-web-app.js';
+        const newUrl = 'https://phpusr.github.io/hamster-kombat-browser-userscript/telegram-web-app.js';
 
         // Получаем все теги <script> на странице
         const scripts = document.getElementsByTagName('script');
