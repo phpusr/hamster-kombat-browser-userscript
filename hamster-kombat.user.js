@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Hamster Kombat Web (phpusr)
 // @namespace    http://tampermonkey.net/
-// @version      1.2
+// @version      1.2.1
 // @description  Запуск Hamster Kombat в браузере
 // @author       mudachyo
 // @match        *://*.hamsterkombatgame.io/*
