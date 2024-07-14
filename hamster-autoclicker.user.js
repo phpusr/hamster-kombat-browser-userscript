@@ -5,7 +5,7 @@
 // @version      1.2
 // @description  12.06.2024, 21:43:52
 // @grant        none
-// @icon         https://hamsterkombat.io/images/icons/hamster-coin.png
+// @icon         https://hamsterkombatgame.io/images/icons/hamster-coin.png
 // @downloadURL  https://github.com/phpusr/hamster-kombat-browser-userscript/raw/main/hamster-autoclicker.user.js
 // @updateURL    https://github.com/phpusr/hamster-kombat-browser-userscript/raw/main/hamster-autoclicker.user.js
 // @homepage     https://github.com/phpusr/hamster-kombat-browser-userscript

@@ -4,9 +4,9 @@
 // @version      1.2
 // @description  Запуск Hamster Kombat в браузере
 // @author       mudachyo
-// @match        *://*.hamsterkombat.io/*
+// @match        *://*.hamsterkombatgame.io/*
 // @grant        none
-// @icon         https://hamsterkombat.io/images/icons/hamster-coin.png
+// @icon         https://hamsterkombatgame.io/images/icons/hamster-coin.png
 // @downloadURL  https://github.com/phpusr/hamster-kombat-browser-userscript/raw/main/hamster-kombat.user.js
 // @updateURL    https://github.com/phpusr/hamster-kombat-browser-userscript/raw/main/hamster-kombat.user.js
 // @homepage     https://github.com/phpusr/hamster-kombat-browser-userscript
@@ -35,9 +35,9 @@
     function replaceScriptUrl() {
         // Список URL-адресов для замены
         const urlsToReplace = [
-            'https://hamsterkombat.io/js/telegram-web-app.js',
-            'https://app.hamsterkombat.io/js/telegram-web-app.js',
-            'https://hamsterkombat.io/js/telegram-web-app.js?v=7.6'
+            'https://hamsterkombatgame.io/js/telegram-web-app.js',
+            'https://app.hamsterkombatgame.io/js/telegram-web-app.js',
+            'https://hamsterkombatgame.io/js/telegram-web-app.js?v=7.6'
         ];
         const newUrl = 'https://phpusr.github.io/hamster-kombat-browser-userscript/telegram-web-app.js';
 
