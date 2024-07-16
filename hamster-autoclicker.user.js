@@ -1,9 +1,10 @@
 // ==UserScript==
-// @name         Hamster Kombat Autoclicker
-// @namespace    Violentmonkey Scripts
+// @name         Hamster Kombat Autoclicker (phpusr)
+// @namespace    http://tampermonkey.net/
+// @version      1.2.3
+// @description  Hamster Kombat Autoclicker
+// @author       mudachyo
 // @match        *://*.hamsterkombatgame.io/*
-// @version      1.2.2
-// @description  12.06.2024, 21:43:52
 // @grant        none
 // @icon         https://hamsterkombatgame.io/images/icons/hamster-coin.png
 // @downloadURL  https://github.com/phpusr/hamster-kombat-browser-userscript/raw/main/hamster-autoclicker.user.js
